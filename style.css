@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.card{
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipMjP6aQ8diVfq8cXxhtkPkJitUq4eP64c3DZwn7=w1080-h608-p-k-no-v0");
+    background-color: aqua;
+
+}
+.card img{
+    width: 35%;
+    height: 20%;
+    border-radius:30%;
+    margin-left: 10%;
+}
+h2{
+    color: rgb(145, 192, 192);
+}
+p{
+    color: rgb(255, 217, 0);
+}
